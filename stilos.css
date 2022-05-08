@@ -1,0 +1,111 @@
+﻿* {
+	background-size: 100vw 100vh;
+	background-attachment: fixed;
+	margin: 0px;
+	padding: 0px;
+}
+.contenedor-2 {
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.imagen-1{
+	width: 104%;
+	display:block;
+	margin:auto;
+}
+
+.formulario-1{
+	width: 100%;
+	background:white;
+	padding: 10px 20px;
+	box-sizing: border-box;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+}
+
+input, button,p {
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 50px;
+	box-sizing: border-box;
+	font-size: 40px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+
+}
+input:focus{
+	
+	border-bottom: 3px solid #2D6CDA;
+}
+span{
+	color: #4682B4;
+}
+.has-1{
+	color: #4682B4;
+}
+p{
+	text-align: center;
+	font-size: 34px;
+	color: ;
+}
+.vaina-1 {
+	font-size: 60px;
+	margin-bottom: 100px;
+	color: black;
+}
+.crear-1{
+	border-bottom: none;
+	background-color: #42b72a;
+	border-radius: 6px;
+	padding: 40px;
+	color: white;
+	width: 74%;
+	margin-left: 12%;
+}
+
+.entrar-1{
+	border-bottom: none;
+	background-color: rgb(26, 115, 232);
+	color: white;
+	padding: 40px;
+	border-radius: 6px;
+	border-color:none;
+	border:none;
+	
+
+}
+.correo-1 {
+	font-size: 50px;
+	outline: none;
+	
+}
+.contrase-1{
+	font-size: 50px;
+	outline: none;
+	
+}
+.navegacion-1 {
+	font-size:30px; 
+}
+.line-1{
+	position: relative;
+ 	width: 45%;
+ 	top:95px;
+ 	height: 1px;
+ 	background-color: black;
+ 	border:none;
+}
+.line-2{
+	position: relative;
+	bottom: 180px;
+	left: 55%;
+	height: 1px;
+ 	width: 45%;
+ 	border:none;
+ 	background-color: black;
+}
